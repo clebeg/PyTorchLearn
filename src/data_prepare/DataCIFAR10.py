@@ -4,7 +4,7 @@ prepare data cifar10 for training
 1. auto download data from network
 2. unzip data
 """
-import file_util
+from utils import file_util
 import pickle
 import numpy as np
 import os

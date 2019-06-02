@@ -4,7 +4,7 @@ some file utils function collect here
 """
 from urllib.request import urlopen
 from urllib.request import Request
-import gzip
+from src.config import constant
 import tarfile
 import zipfile
 import os
@@ -42,6 +42,12 @@ def download_network_file(url, local_file):
 
 
 def wget_network_file(url, local_file):
+    """
+    下载数据集通过 wget 命令，系统必须安装 wget
+    :param url:
+    :param local_file:
+    :return: True or False
+    """
     if os.path.exists(local_file):
         return True
     download_process = subprocess.Popen(['wget', '-c', '-O', local_file, "{}".format(url)])
@@ -53,6 +59,13 @@ def wget_network_file(url, local_file):
 
 
 def uncompress(src_file, target_dir=None, file_fmt='tgz'):
+    """
+    解压缩文件夹
+    :param src_file:
+    :param target_dir:
+    :param file_fmt:
+    :return:
+    """
     if not target_dir:
         target_dir = os.path.dirname(os.path.abspath(src_file))
     if file_fmt in ('tgz', 'tar'):
@@ -73,6 +86,7 @@ def uncompress(src_file, target_dir=None, file_fmt='tgz'):
 
 if __name__ == '__main__':
     test_url = 'http://www.cs.toronto.edu/~kriz/cifar-10-python.tar.gz'
-    test_local_file = '/Users/clebeg/PycharmProjects/PyTorchLearn/datas/cifar-10-python.tar.gz'
-    #print(wget_network_file(test_url, test_local_file))
+    test_local_file = constant.DATA_ROOT_PATH + '/cifar-10-python.tar.gz'
+    # 自动下载数据集
+    print(wget_network_file(test_url, test_local_file))
     print(uncompress(test_local_file))

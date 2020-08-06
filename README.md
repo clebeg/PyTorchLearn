@@ -8,6 +8,8 @@
 1. [PyTorch基本数值操作](https://github.com/clebeg/PyTorchLearn/blob/master/jupyter_script/dl_in_action/PyTorch%E5%9F%BA%E6%9C%AC%E6%95%B0%E5%80%BC%E6%93%8D%E4%BD%9C.ipynb)
 2. [PyTorch自动求梯度](https://github.com/clebeg/PyTorchLearn/blob/master/jupyter_script/dl_in_action/PyTorch%E8%87%AA%E5%8A%A8%E6%B1%82%E6%A2%AF%E5%BA%A6.ipynb)
 3. [线性回归](https://github.com/clebeg/PyTorchLearn/blob/master/jupyter_script/dl_in_action/%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92.ipynb)
+4. [逻辑回归](https://github.com/clebeg/PyTorchLearn/blob/master/jupyter_script/dl_in_action/逻辑回归.ipynb)
+
 
 ## 二、拿来即用模型
 位于 src 目录中

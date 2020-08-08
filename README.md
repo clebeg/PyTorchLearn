@@ -5,10 +5,12 @@
 位于 jupyter_script/dl_in_action 目录，将来还会增加其他学习 jupyter script
 
 下面是具体的学习步骤：
-1. [PyTorch基本数值操作](https://github.com/clebeg/PyTorchLearn/blob/master/jupyter_script/dl_in_action/PyTorch%E5%9F%BA%E6%9C%AC%E6%95%B0%E5%80%BC%E6%93%8D%E4%BD%9C.ipynb)
-2. [PyTorch自动求梯度](https://github.com/clebeg/PyTorchLearn/blob/master/jupyter_script/dl_in_action/PyTorch%E8%87%AA%E5%8A%A8%E6%B1%82%E6%A2%AF%E5%BA%A6.ipynb)
-3. [线性回归](https://github.com/clebeg/PyTorchLearn/blob/master/jupyter_script/dl_in_action/%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92.ipynb)
-4. [逻辑回归](https://github.com/clebeg/PyTorchLearn/blob/master/jupyter_script/dl_in_action/逻辑回归.ipynb)
+一、深度学习基础
+1.1 [PyTorch基本数值操作](https://github.com/clebeg/PyTorchLearn/blob/master/jupyter_script/dl_in_action/PyTorch%E5%9F%BA%E6%9C%AC%E6%95%B0%E5%80%BC%E6%93%8D%E4%BD%9C.ipynb)
+1.2 [PyTorch自动求梯度](https://github.com/clebeg/PyTorchLearn/blob/master/jupyter_script/dl_in_action/PyTorch%E8%87%AA%E5%8A%A8%E6%B1%82%E6%A2%AF%E5%BA%A6.ipynb)
+1.3 [线性回归](https://github.com/clebeg/PyTorchLearn/blob/master/jupyter_script/dl_in_action/%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92.ipynb)
+1.4 [逻辑回归](https://github.com/clebeg/PyTorchLearn/blob/master/jupyter_script/dl_in_action/逻辑回归.ipynb)
+1.5 [softmax回归](https://github.com/clebeg/PyTorchLearn/blob/master/jupyter_script/dl_in_action/softmax回归.ipynb)
 
 
 ## 二、拿来即用模型

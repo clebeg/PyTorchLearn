@@ -4,7 +4,8 @@
 ## 一、 PyTorch 实战深度学习
 位于 jupyter_script/dl_in_action 目录，将来还会增加其他学习 jupyter script
 
-下面是具体的学习步骤：
+下面是具体的学习目录
+    
 一、深度学习基础
 + 1.1 [PyTorch基本数值操作](https://github.com/clebeg/PyTorchLearn/blob/master/jupyter_script/dl_in_action/PyTorch%E5%9F%BA%E6%9C%AC%E6%95%B0%E5%80%BC%E6%93%8D%E4%BD%9C.ipynb)
 + 1.2 [PyTorch自动求梯度](https://github.com/clebeg/PyTorchLearn/blob/master/jupyter_script/dl_in_action/PyTorch%E8%87%AA%E5%8A%A8%E6%B1%82%E6%A2%AF%E5%BA%A6.ipynb)

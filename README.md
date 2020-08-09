@@ -12,6 +12,7 @@
 + 1.3 [线性回归](https://github.com/clebeg/PyTorchLearn/blob/master/jupyter_script/dl_in_action/%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92.ipynb)
 + 1.4 [逻辑回归](https://github.com/clebeg/PyTorchLearn/blob/master/jupyter_script/dl_in_action/逻辑回归.ipynb)
 + 1.5 [softmax回归](https://github.com/clebeg/PyTorchLearn/blob/master/jupyter_script/dl_in_action/softmax回归.ipynb)
++ 1.6 [多层感知机](https://github.com/clebeg/PyTorchLearn/blob/master/jupyter_script/dl_in_action/多层感知机.ipynb)
 
 
 ## 二、拿来即用模型

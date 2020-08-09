@@ -13,7 +13,7 @@
 + 1.4 [逻辑回归](https://github.com/clebeg/PyTorchLearn/blob/master/jupyter_script/dl_in_action/逻辑回归.ipynb)
 + 1.5 [softmax回归](https://github.com/clebeg/PyTorchLearn/blob/master/jupyter_script/dl_in_action/softmax回归.ipynb)
 + 1.6 [多层感知机](https://github.com/clebeg/PyTorchLearn/blob/master/jupyter_script/dl_in_action/多层感知机.ipynb)
-
++ 1.7 [多拟合与欠拟合](https://github.com/clebeg/PyTorchLearn/blob/master/jupyter_script/dl_in_action/多拟合与欠拟合.ipynb)
 
 ## 二、拿来即用模型
 位于 src 目录中

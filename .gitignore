@@ -108,3 +108,4 @@ datas/
 .vscode/
 */*/.ipynb_checkpoints
 */*/lightning_logs
+*/*/checkpoints
